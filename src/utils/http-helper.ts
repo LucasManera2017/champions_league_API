@@ -13,3 +13,17 @@ export const noContent = (): HttpResponse => {
     body: null
   }
 }
+
+export const badRequest = (): HttpResponse => {
+  return {
+    statusCode: 400,
+    body: null
+  }
+}
+
+export const created = (): HttpResponse => {
+  return {
+    statusCode: 201,
+    body: null
+  }
+}
