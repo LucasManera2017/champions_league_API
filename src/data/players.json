@@ -1,0 +1,338 @@
+[
+  {
+    "id": 1,
+    "name": "Kylian Mbappé",
+    "club": "Paris Saint-Germain",
+    "nationality": "France",
+    "position": "Forward",
+    "statistics": {
+      "Overall": 92,
+      "Pace": 97,
+      "Shooting": 91,
+      "Passing": 80,
+      "Dribbling": 93,
+      "Defending": 36,
+      "Physical": 79
+    }
+  },
+  {
+    "id": 2,
+    "name": "Erling Haaland",
+    "club": "Manchester City",
+    "nationality": "Norway",
+    "position": "Forward",
+    "statistics": {
+      "Overall": 91,
+      "Pace": 90,
+      "Shooting": 95,
+      "Passing": 72,
+      "Dribbling": 80,
+      "Defending": 45,
+      "Physical": 88
+    }
+  },
+  {
+    "id": 3,
+    "name": "Vinícius Júnior",
+    "club": "Real Madrid",
+    "nationality": "Brazil",
+    "position": "Winger",
+    "statistics": {
+      "Overall": 90,
+      "Pace": 95,
+      "Shooting": 85,
+      "Passing": 80,
+      "Dribbling": 94,
+      "Defending": 40,
+      "Physical": 77
+    }
+  },
+  {
+    "id": 4,
+    "name": "Jude Bellingham",
+    "club": "Real Madrid",
+    "nationality": "England",
+    "position": "Midfielder",
+    "statistics": {
+      "Overall": 91,
+      "Pace": 80,
+      "Shooting": 88,
+      "Passing": 87,
+      "Dribbling": 89,
+      "Defending": 75,
+      "Physical": 84
+    }
+  },
+  {
+    "id": 5,
+    "name": "Kevin De Bruyne",
+    "club": "Manchester City",
+    "nationality": "Belgium",
+    "position": "Midfielder",
+    "statistics": {
+      "Overall": 91,
+      "Pace": 75,
+      "Shooting": 87,
+      "Passing": 94,
+      "Dribbling": 86,
+      "Defending": 64,
+      "Physical": 78
+    }
+  },
+  {
+    "id": 6,
+    "name": "Harry Kane",
+    "club": "Bayern Munich",
+    "nationality": "England",
+    "position": "Forward",
+    "statistics": {
+      "Overall": 90,
+      "Pace": 68,
+      "Shooting": 93,
+      "Passing": 85,
+      "Dribbling": 83,
+      "Defending": 50,
+      "Physical": 84
+    }
+  },
+  {
+    "id": 7,
+    "name": "Bukayo Saka",
+    "club": "Arsenal",
+    "nationality": "England",
+    "position": "Winger",
+    "statistics": {
+      "Overall": 88,
+      "Pace": 88,
+      "Shooting": 83,
+      "Passing": 82,
+      "Dribbling": 88,
+      "Defending": 55,
+      "Physical": 70
+    }
+  },
+  {
+    "id": 8,
+    "name": "Lamine Yamal",
+    "club": "Barcelona",
+    "nationality": "Spain",
+    "position": "Winger",
+    "statistics": {
+      "Overall": 87,
+      "Pace": 92,
+      "Shooting": 80,
+      "Passing": 80,
+      "Dribbling": 92,
+      "Defending": 35,
+      "Physical": 65
+    }
+  },
+  {
+    "id": 9,
+    "name": "Rodri",
+    "club": "Manchester City",
+    "nationality": "Spain",
+    "position": "Midfielder",
+    "statistics": {
+      "Overall": 90,
+      "Pace": 65,
+      "Shooting": 75,
+      "Passing": 88,
+      "Dribbling": 80,
+      "Defending": 89,
+      "Physical": 87
+    }
+  },
+  {
+    "id": 10,
+    "name": "Virgil van Dijk",
+    "club": "Liverpool",
+    "nationality": "Netherlands",
+    "position": "Defender",
+    "statistics": {
+      "Overall": 89,
+      "Pace": 78,
+      "Shooting": 60,
+      "Passing": 80,
+      "Dribbling": 70,
+      "Defending": 92,
+      "Physical": 88
+    }
+  },
+  {
+    "id": 11,
+    "name": "Florian Wirtz",
+    "club": "Bayer Leverkusen",
+    "nationality": "Germany",
+    "position": "Midfielder",
+    "statistics": {
+      "Overall": 89,
+      "Pace": 84,
+      "Shooting": 82,
+      "Passing": 87,
+      "Dribbling": 91,
+      "Defending": 55,
+      "Physical": 70
+    }
+  },
+  {
+    "id": 12,
+    "name": "Antoine Griezmann",
+    "club": "Atlético de Madrid",
+    "nationality": "France",
+    "position": "Forward",
+    "statistics": {
+      "Overall": 88,
+      "Pace": 80,
+      "Shooting": 87,
+      "Passing": 86,
+      "Dribbling": 87,
+      "Defending": 60,
+      "Physical": 75
+    }
+  },
+  {
+    "id": 13,
+    "name": "Phil Foden",
+    "club": "Manchester City",
+    "nationality": "England",
+    "position": "Winger",
+    "statistics": {
+      "Overall": 89,
+      "Pace": 84,
+      "Shooting": 86,
+      "Passing": 87,
+      "Dribbling": 90,
+      "Defending": 50,
+      "Physical": 70
+    }
+  },
+  {
+    "id": 14,
+    "name": "Raphinha",
+    "club": "Barcelona",
+    "nationality": "Brazil",
+    "position": "Winger",
+    "statistics": {
+      "Overall": 87,
+      "Pace": 88,
+      "Shooting": 87,
+      "Passing": 82,
+      "Dribbling": 89,
+      "Defending": 45,
+      "Physical": 72
+    }
+  },
+  {
+    "id": 15,
+    "name": "Jamal Musiala",
+    "club": "Bayern Munich",
+    "nationality": "Germany",
+    "position": "Midfielder",
+    "statistics": {
+      "Overall": 88,
+      "Pace": 88,
+      "Shooting": 84,
+      "Passing": 85,
+      "Dribbling": 91,
+      "Defending": 55,
+      "Physical": 70
+    }
+  },
+  {
+    "id": 16,
+    "name": "Mohamed Salah",
+    "club": "Liverpool",
+    "nationality": "Egypt",
+    "position": "Forward",
+    "statistics": {
+      "Overall": 89,
+      "Pace": 91,
+      "Shooting": 88,
+      "Passing": 84,
+      "Dribbling": 88,
+      "Defending": 45,
+      "Physical": 75
+    }
+  },
+  {
+    "id": 17,
+    "name": "Lautaro Martínez",
+    "club": "Inter Milan",
+    "nationality": "Argentina",
+    "position": "Forward",
+    "statistics": {
+      "Overall": 88,
+      "Pace": 85,
+      "Shooting": 88,
+      "Passing": 75,
+      "Dribbling": 85,
+      "Defending": 40,
+      "Physical": 80
+    }
+  },
+  {
+    "id": 18,
+    "name": "Gianluigi Donnarumma",
+    "club": "Paris Saint-Germain",
+    "nationality": "Italy",
+    "position": "Goalkeeper",
+    "statistics": {
+      "Overall": 87,
+      "Pace": 45,
+      "Shooting": 25,
+      "Passing": 50,
+      "Dribbling": 45,
+      "Defending": 88,
+      "Physical": 85
+    }
+  },
+  {
+    "id": 19,
+    "name": "Declan Rice",
+    "club": "Arsenal",
+    "nationality": "England",
+    "position": "Midfielder",
+    "statistics": {
+      "Overall": 87,
+      "Pace": 75,
+      "Shooting": 70,
+      "Passing": 84,
+      "Dribbling": 80,
+      "Defending": 87,
+      "Physical": 85
+    }
+  },
+  {
+    "id": 20,
+    "name": "Federico Valverde",
+    "club": "Real Madrid",
+    "nationality": "Uruguay",
+    "position": "Midfielder",
+    "statistics": {
+      "Overall": 88,
+      "Pace": 88,
+      "Shooting": 82,
+      "Passing": 85,
+      "Dribbling": 86,
+      "Defending": 79,
+      "Physical": 87
+    }
+  },
+  {
+    "id": 21,
+    "name": "Jude Bellingham",
+    "club": "Real Madrid",
+    "nationality": "England",
+    "position": "Midfielder",
+    "statistics": {
+      "Overall": 89,
+      "Pace": 85,
+      "Shooting": 82,
+      "Passing": 88,
+      "Dribbling": 90,
+      "Defending": 78,
+      "Physical": 80
+    }
+  }
+]
