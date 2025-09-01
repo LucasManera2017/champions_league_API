@@ -5,6 +5,7 @@
     "club": "Paris Saint-Germain",
     "nationality": "France",
     "position": "Forward",
+    "image": "https://img.a.transfermarkt.technology/portrait/big/342229-1682683695.jpg?lm=1",
     "statistics": {
       "Overall": 92,
       "Pace": 97,
@@ -21,6 +22,7 @@
     "club": "Manchester City",
     "nationality": "Norway",
     "position": "Forward",
+    "image": "https://img.a.transfermarkt.technology/portrait/big/418560-1709108116.png?lm=1",
     "statistics": {
       "Overall": 91,
       "Pace": 90,
@@ -37,6 +39,7 @@
     "club": "Real Madrid",
     "nationality": "Brazil",
     "position": "Winger",
+    "image": "https://img.a.transfermarkt.technology/portrait/big/371998-1664869583.jpg?lm=1",
     "statistics": {
       "Overall": 90,
       "Pace": 95,
@@ -334,5 +337,22 @@
       "Defending": 78,
       "Physical": 80
     }
+  },
+  {
+    "name": "Lucas Manera",
+    "club": "Corintia",
+    "nationality": "Brasil",
+    "position": "Atacante",
+    "image": "https://img.a.transfermarkt.technology/portrait/big/371998-1664869583.jpg?lm=1",
+    "statistics": {
+      "Overall": 0,
+      "Pace": 0,
+      "Shooting": 0,
+      "Passing": 0,
+      "Dribbling": 0,
+      "Defending": 0,
+      "Physical": 0
+    },
+    "id": 22
   }
 ]
